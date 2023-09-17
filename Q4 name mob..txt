@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+    printf("Name: Devansh Seth\n");
+    printf("Date of Birth: 17/08/2005\n");
+    printf("Mobile Number: 7068414334\n");
+    return 0;
+}
